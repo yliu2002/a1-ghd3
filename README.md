@@ -7,3 +7,13 @@ horizontally against each other. and the green circle in the bottom left of the 
 
 <img width="1920" height="1920" alt="image" src="https://github.com/user-attachments/assets/aaa62b04-199e-4e73-a40c-ddddb5723102" />
 
+
+A working link to the hosted files is: https://yliu2002.github.io/a1-ghd3/
+
+
+Here are the technical achievements of the project:
+it successfully implemented the swapping of the orange circle and yellow rectangle at the top using D3.js transitions. it also utilized D3.js to create an interactive effect where the bottom left green circle becomes bigger upon mouseover.
+
+
+Here are the Design Achievements of the project:
+I created a visually appealing SVG container with dimensions of 600x600 pixels. I also added lines, rectangles, and a polygon to the SVG container using D3.js. I implemented smooth transitions between states, such as the movement of the orange circle and the resizing of the green circle.
