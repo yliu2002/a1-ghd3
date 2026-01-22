@@ -10,6 +10,7 @@ horizontally against each other. and the green circle in the bottom left of the 
 
 A working link to the hosted files is: https://yliu2002.github.io/a1-ghd3/
 
+Section for Technical and Design Achievements:
 
 Here are the technical achievements of the project:
 it successfully implemented the swapping of the orange circle and yellow rectangle at the top using D3.js transitions. it also utilized D3.js to create an interactive effect where the bottom left green circle becomes bigger upon mouseover.
